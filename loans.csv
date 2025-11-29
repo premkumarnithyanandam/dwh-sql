@@ -1,8 +1,8 @@
 Amount,Collateral,CustomerID,EndDate,InterestRate,LoanID,LoanType,PaymentFrequency,StartDate,Status
 54973,particular,407336,2038-07-25,8.95,9328321478780,Auto,Annually,2024-01-24,Defaulted
 29914,about,441670,2038-06-08,11.31,4900766109094,Auto,Monthly,2023-08-09,Active
-6747.55,official,440243,2034-05-18,3.66,7258263750070,Mortgage,Annually,2024-02-13,Closed
-28044.32,big,407768,2028-10-17,10.31,7251342603878,Auto,Quarterly,2024-02-16,Active
+6747,official,440243,2034-05-18,3.66,7258263750070,Mortgage,Annually,2024-02-13,Closed
+28044,big,407768,2028-10-17,10.31,7251342603878,Auto,Quarterly,2024-02-16,Active
 42543.99,late,446136,2039-04-27,7.28,8733675849116,Personal,Quarterly,2020-11-22,Closed
 21289.49,stage,442873,2026-11-25,7.01,1547353841093,Personal,Annually,2021-03-06,Active
 19465.42,per,449399,2053-02-13,12.87,9659961050388,Mortgage,Quarterly,2020-06-12,Active
